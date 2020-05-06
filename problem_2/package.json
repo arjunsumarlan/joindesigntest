@@ -1,0 +1,25 @@
+{
+  "name": "problem_2",
+  "version": "1.0.0",
+  "description": "This is Solution of Problem No. 2 from Join Design Company Code Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "code",
+    "test"
+  ],
+  "author": "Arjun Sumarlan",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "mysql": "^2.18.1",
+    "prompt": "^1.0.0",
+    "prompts": "^2.3.2",
+    "sinon": "^9.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
