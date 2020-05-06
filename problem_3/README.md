@@ -1,9 +1,11 @@
+### This is Solution of Problem no. 3 of Joint Print Company's Code Test
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap 4 (Reactstrap)](https://reactstrap.github.io/).
 
-This project has only two pages, they are Login and Home.
-- Login always render in any route user visits if user not authenticated yet.
-- Login will contain a form for authenticate user then user allowed to access Home page.
-- Home will show Greeting message to authenticated user.
+This project has only two pages, they are **Login** and **Home**.
+- **Login** always render in any route user visits if user not authenticated yet.
+- **Login** will contain a form for authenticate user then user allowed to access **Home** page.
+- **Home** will show Greeting message to authenticated user.
 
 ## Available Scripts
 
