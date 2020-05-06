@@ -11,6 +11,9 @@ one operation.
 The Function is to delete as many characters as possible using this method and print the
 resulting string. If the final string is empty, print Empty String
 
+### Solution:
+The solution can be found in ```problem_1``` folder, and please follow the instructions in the README of folder
+
 **Sample Input**
 
 ```bash
@@ -29,6 +32,9 @@ realize her keyboard's key was broken until completing the calculation. She need
 difference between her miscalculation (using salaries with any zeroes removed), and the actual
 average salary.
 Write a query calculating the differentiate amount of error, and round it up to the next integer.
+
+### Solution:
+The solution can be found in ```problem_2``` folder, and please follow the instructions in the README of folder
 
 **Sample Input**
 
@@ -55,3 +61,6 @@ other than that shouldn’t not able to login
 - Logged in user should not be able to see the login page,
 - Non-login user should not able to see dashboard
 - Make sure can compile/build into standalone assets
+
+### Solution:
+The solution can be found in ```problem_3``` folder, and please follow the instructions in the README of folder
