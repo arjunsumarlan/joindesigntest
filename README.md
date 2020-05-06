@@ -1,6 +1,6 @@
 # Take Home Test 
 ## Description :
-This is Solution of Take Home Test from Join Design Company.
+This is Solution of Take Home Test from Joint Print Company.
 
 ## Problem Statements :
 ### Problem no 1:
