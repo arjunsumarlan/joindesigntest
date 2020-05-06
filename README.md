@@ -1,6 +1,6 @@
-# Parking Lot Project
+# Take Home Test 
 ## Description :
-This is Solution of Take Home Test from DKatalis Company.
+This is Solution of Take Home Test from Join Design Company.
 
 ## Problem Statements :
 ### Problem no 1:
@@ -13,15 +13,15 @@ resulting string. If the final string is empty, print Empty String
 
 **Sample Input**
 
-``bash
+```bash
 aaabccddd
-``
+```
 
 **Sample Output**
 
-``bash
+```bash
 abd
-``
+```
 
 ### Problem no 2:
 Somya has task to calculate the average monthly salaries in the EMPLOYEES table, but didn’t
@@ -41,9 +41,9 @@ Write a query calculating the differentiate amount of error, and round it up to 
 
 **Sample Output**
 
-``bash
+```bash
 2061
-``
+```
 
 ### Problem no 3:
 Write simple login logout with below constraint:
