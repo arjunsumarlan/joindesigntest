@@ -3,7 +3,7 @@
 This is Solution of Take Home Test from Joint Print Company.
 
 ## Problem Statements :
-### Problem no 1:
+### [Problem no 1:](https://github.com/arjunsumarlan/jointprinttest/tree/master/problem_1)
 We has lowercase string in range ascii[‘a’..’z’]. We want to reduce the string to its shortest
 length by doing a series of operations. In each operation we select a pair of adjacent lowercase
 letters that match, and he deletes them. For instance, the string aab could be shortened to b in
@@ -26,7 +26,7 @@ aaabccddd
 abd
 ```
 
-### Problem no 2:
+### [Problem no 2:](https://github.com/arjunsumarlan/jointprinttest/tree/master/problem_2)
 Somya has task to calculate the average monthly salaries in the EMPLOYEES table, but didn’t
 realize her keyboard's key was broken until completing the calculation. She need help finding the
 difference between her miscalculation (using salaries with any zeroes removed), and the actual
@@ -51,7 +51,7 @@ The solution can be found in ```problem_2``` folder, and please follow the instr
 2061
 ```
 
-### Problem no 3:
+### [Problem no 3:](https://github.com/arjunsumarlan/jointprinttest/tree/master/problem_3)
 Write simple login logout with below constraint:
 - pure reactjs without any other third party external state management (redux/mobx)
 - Create with bootstrap 4 and maintain mobile view
