@@ -40,22 +40,19 @@ function start() {
  * Asking user to decide whether restart or quit
  */
 function restart() {
-    console.log('Do you want to try again ? (y/n)');
+    console.log('\nDo you want to try again ? (y/n)');
 
     prompt.get(['answer'], function (err, result) {
         if (err) return onError(err);
 
-        if (
-            result.answer === "y" ||
-            result.answer === "Y" ||
-            result.answer === "yes" ||
-            result.answer === "Yes" ||
-            result.answer === "ya" ||
-            result.answer === "Ya"
-        ) {
+        const answer = result.answer.toLowerCase();
+
+        if (answer === "y" || answer === "yes" || answer === "ya") {
             start();
-        } else {
+        } else if (answer === "n" || answer === "no") {
             console.log("Exit...")
+        } else {
+            restart();
         }
     });
 }
