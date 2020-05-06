@@ -3,9 +3,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and [Bootstrap 4 (Reactstrap)](https://reactstrap.github.io/).
 
 This project has only two pages, they are **Login** and **Home**.
-- **Login** always render in any route user visits if user not authenticated yet.
-- **Login** will contain a form for authenticate user then user allowed to access **Home** page.
-- **Home** will show Greeting message to authenticated user.
+- **Login** always renders in any route user visits if user not authenticated yet.
+- **Login** will contains a form for authenticating user then user allowed to access **Home** page.
+- **Home** will shows Greeting message to authenticated user.
 
 ## Available Scripts
 
