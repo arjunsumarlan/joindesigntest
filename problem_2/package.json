@@ -1,7 +1,7 @@
 {
   "name": "problem_2",
   "version": "1.0.0",
-  "description": "This is Solution of Problem No. 2 from Join Design Company Code Test",
+  "description": "This is Solution of Problem No. 2 from Joint Print Company Code Test",
   "main": "index.js",
   "scripts": {
     "test": "jest"
